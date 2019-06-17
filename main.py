@@ -4,7 +4,7 @@ import json
 import sys
 
 header = {'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent' : "Magic Browser"}
-school_link = "https://02.ppdbjatim.net/pengumuman/pengumuman_penerimaan/smk/sekolah/2413"
+school_link = "https://02.ppdbjatim.net/kota/rekap_pendaftaran_sma/sekolah/30502001000"
 
 # fetch from school
 def fetch_school(link):
@@ -24,11 +24,8 @@ def fetch_school(link):
             "no-ujian": detail[1].text,
             "nama": detail[2].text,
             "sekolah-asal": detail[3].text,
-            "status": detail[4].text.strip(),
-            "nilai": float(detail[5].text),
-            "detail-nilai": detail[6].text,
-            "waktu-daftar": detail[7].text,
-            "link": detail[8].a["href"],
+            "nilai": float(detail[4].text),
+            "waktu-daftar": detail[5].text,
         })
 
     return students
@@ -99,7 +96,7 @@ if __name__ == '__main__':
 
     try:
         if argv[1] == "len":
-            print(len(fetch_school(school_link)))
+            print("Jumlah Pendaftar:", len(fetch_school(school_link)))
         else:
             detail = False
             num = int(argv[2])

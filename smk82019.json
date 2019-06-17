@@ -1,0 +1,802 @@
+[
+  {
+    "urutan": 1,
+    "no-ujian": "2190502001800107",
+    "nama": "FAURERA NAJWA ANJANI",
+    "sekolah-asal": "SMP NEGERI 6 MALANG",
+    "nilai": 376.0,
+    "waktu-daftar": "2019-06-17 16:46:18"
+  },
+  {
+    "urutan": 2,
+    "no-ujian": "2190502001400072",
+    "nama": "CITRA YAMA ARIFA",
+    "sekolah-asal": "SMP LABORATORIUM UM MALANG",
+    "nilai": 240.0,
+    "waktu-daftar": "2019-06-17 15:53:54"
+  },
+  {
+    "urutan": 3,
+    "no-ujian": "2190502001400249",
+    "nama": "TARA YAMA AQILA",
+    "sekolah-asal": "SMP LABORATORIUM UM MALANG",
+    "nilai": 246.0,
+    "waktu-daftar": "2019-06-17 15:43:49"
+  },
+  {
+    "urutan": 4,
+    "no-ujian": "2190502000500356",
+    "nama": "ANIN SAUFA PRATIWI",
+    "sekolah-asal": "SMP NEGERI 2 MALANG",
+    "nilai": 349.0,
+    "waktu-daftar": "2019-06-17 15:41:27"
+  },
+  {
+    "urutan": 5,
+    "no-ujian": "2190502001600747",
+    "nama": "AURA GRISELDA",
+    "sekolah-asal": "SMP NEGERI 5 MALANG",
+    "nilai": 373.0,
+    "waktu-daftar": "2019-06-17 15:16:07"
+  },
+  {
+    "urutan": 6,
+    "no-ujian": "2190502001602827",
+    "nama": "ILA VIRNANDA FITRIANA",
+    "sekolah-asal": "SMP NEGERI 5 MALANG",
+    "nilai": 380.5,
+    "waktu-daftar": "2019-06-17 14:39:49"
+  },
+  {
+    "urutan": 7,
+    "no-ujian": "21805020641912",
+    "nama": "HANNA RISFIA EL-RACHMA",
+    "sekolah-asal": "SMP NEGERI 16 MALANG",
+    "nilai": 273.0,
+    "waktu-daftar": "2019-06-17 13:05:38"
+  },
+  {
+    "urutan": 8,
+    "no-ujian": "2190502001101796",
+    "nama": "BAGAS KARA CHOIRUL ANWAR",
+    "sekolah-asal": "SMP NEGERI 4 MALANG",
+    "nilai": 270.5,
+    "waktu-daftar": "2019-06-17 12:25:35"
+  },
+  {
+    "urutan": 9,
+    "no-ujian": "2190502003401067",
+    "nama": "ANNISA RAMADHINI ANDRIANA PUTRI",
+    "sekolah-asal": "SMP NEGERI 10 MALANG",
+    "nilai": 306.0,
+    "waktu-daftar": "2019-06-17 11:58:13"
+  },
+  {
+    "urutan": 10,
+    "no-ujian": "2190502001200596",
+    "nama": "KEYSYA FARIQOH NASWAH DHIBA",
+    "sekolah-asal": "SMP BRAWIJAYA SMART SCHOOL",
+    "nilai": 222.0,
+    "waktu-daftar": "2019-06-17 11:53:04"
+  },
+  {
+    "urutan": 11,
+    "no-ujian": "2190502000803076",
+    "nama": "NABILA HASNA RAFIFAH HARDANI",
+    "sekolah-asal": "SMP NEGERI 3 MALANG",
+    "nilai": 375.0,
+    "waktu-daftar": "2019-06-17 11:45:04"
+  },
+  {
+    "urutan": 12,
+    "no-ujian": "2190502001603094",
+    "nama": "AULIA RACHMADINA",
+    "sekolah-asal": "SMP NEGERI 5 MALANG",
+    "nilai": 381.5,
+    "waktu-daftar": "2019-06-17 11:14:44"
+  },
+  {
+    "urutan": 13,
+    "no-ujian": "2190502000800036",
+    "nama": "ACHLA FAHDINA",
+    "sekolah-asal": "SMP NEGERI 3 MALANG",
+    "nilai": 348.0,
+    "waktu-daftar": "2019-06-17 11:13:00"
+  },
+  {
+    "urutan": 14,
+    "no-ujian": "2190502000801414",
+    "nama": "FIKRI HANIEF",
+    "sekolah-asal": "SMP NEGERI 3 MALANG",
+    "nilai": 376.5,
+    "waktu-daftar": "2019-06-17 11:04:32"
+  },
+  {
+    "urutan": 15,
+    "no-ujian": "2190527016402445",
+    "nama": "URFI ANGELISA AGUSTINE",
+    "sekolah-asal": "SMP NEGERI 1 KEPANJEN",
+    "nilai": 284.5,
+    "waktu-daftar": "2019-06-17 11:04:09"
+  },
+  {
+    "urutan": 16,
+    "no-ujian": "2190502001602969",
+    "nama": "RICKY FEBRIAN",
+    "sekolah-asal": "SMP NEGERI 5 MALANG",
+    "nilai": 380.0,
+    "waktu-daftar": "2019-06-17 10:55:36"
+  },
+  {
+    "urutan": 17,
+    "no-ujian": "2190502050201209",
+    "nama": "NADA SALMA RAMADHANI MANULANG",
+    "sekolah-asal": "MTS ATTARAQQIE",
+    "nilai": 253.5,
+    "waktu-daftar": "2019-06-17 10:43:17"
+  },
+  {
+    "urutan": 18,
+    "no-ujian": "2190502009201147",
+    "nama": "REVANI AULIA SAVITRI",
+    "sekolah-asal": "SMP ISLAM SABILILLAH",
+    "nilai": 377.0,
+    "waktu-daftar": "2019-06-17 10:27:49"
+  },
+  {
+    "urutan": 19,
+    "no-ujian": "2190527002602374",
+    "nama": "DESYA AULIA PUTRI HARDIANTO",
+    "sekolah-asal": "SMP NEGERI 3 SINGOSARI",
+    "nilai": 290.0,
+    "waktu-daftar": "2019-06-17 10:25:18"
+  },
+  {
+    "urutan": 20,
+    "no-ujian": "2190502001602152",
+    "nama": "BINTANG ABIMANYU SULTHAN MAULA",
+    "sekolah-asal": "SMP NEGERI 5 MALANG",
+    "nilai": 378.5,
+    "waktu-daftar": "2019-06-17 10:19:25"
+  },
+  {
+    "urutan": 21,
+    "no-ujian": "2190502004600347",
+    "nama": "AHMAD NUR CAHYO",
+    "sekolah-asal": "SMP NEGERI 13 MALANG",
+    "nilai": 349.0,
+    "waktu-daftar": "2019-06-17 10:17:30"
+  },
+  {
+    "urutan": 22,
+    "no-ujian": "2190502011000365",
+    "nama": "SAID MUHAMMAD TSABITUL AZMI YAHYA BAKHSIN",
+    "sekolah-asal": "SMP ISLAM TERPADU INSAN PERMATA",
+    "nilai": 259.0,
+    "waktu-daftar": "2019-06-17 10:01:43"
+  },
+  {
+    "urutan": 23,
+    "no-ujian": "2190502009201218",
+    "nama": "ZAHRA SAKINAH FINAHAR",
+    "sekolah-asal": "SMP ISLAM SABILILLAH",
+    "nilai": 360.0,
+    "waktu-daftar": "2019-06-17 09:59:44"
+  },
+  {
+    "urutan": 24,
+    "no-ujian": "2190502002100623",
+    "nama": "VITO CANDRA PRAYOGO",
+    "sekolah-asal": "SMP KATOLIK FRATERAN CELAKET 21",
+    "nilai": 187.5,
+    "waktu-daftar": "2019-06-17 09:59:01"
+  },
+  {
+    "urutan": 25,
+    "no-ujian": "2190502008701076",
+    "nama": "SYIFA ANGGRAENI",
+    "sekolah-asal": "SMP NEGERI 21 MALANG",
+    "nilai": 338.5,
+    "waktu-daftar": "2019-06-17 09:57:06"
+  },
+  {
+    "urutan": 26,
+    "no-ujian": "2190502009601832",
+    "nama": "YARDAN FADILLAH",
+    "sekolah-asal": "SMP NEGERI 24 MALANG",
+    "nilai": 291.0,
+    "waktu-daftar": "2019-06-17 09:50:30"
+  },
+  {
+    "urutan": 27,
+    "no-ujian": "2190502002701103",
+    "nama": "CAHYANDA HARDANTI",
+    "sekolah-asal": "SMP NEGERI 8 MALANG",
+    "nilai": 378.5,
+    "waktu-daftar": "2019-06-17 09:45:50"
+  },
+  {
+    "urutan": 28,
+    "no-ujian": "2190502051900392",
+    "nama": "NUR CHOLILA HUMAIROH",
+    "sekolah-asal": "MTS HAMID RUSYDI",
+    "nilai": 211.5,
+    "waktu-daftar": "2019-06-17 09:37:35"
+  },
+  {
+    "urutan": 29,
+    "no-ujian": "2192209002400445",
+    "nama": "FEBRYANTI NUR IMAMA",
+    "sekolah-asal": "SMP NGURAH RAI KEROBOKAN-BADUNG-BALI",
+    "nilai": 224.0,
+    "waktu-daftar": "2019-06-17 09:35:13"
+  },
+  {
+    "urutan": 30,
+    "no-ujian": "2190502011000347",
+    "nama": "RAFLI ATAULLAH PUTRA",
+    "sekolah-asal": "SMP ISLAM TERPADU INSAN PERMATA",
+    "nilai": 220.0,
+    "waktu-daftar": "2019-06-17 09:28:23"
+  },
+  {
+    "urutan": 31,
+    "no-ujian": "2190502001900303",
+    "nama": "ANGELA NATHANIA PUTRI BRAMUDHA",
+    "sekolah-asal": "SMP KATOLIK COR JESU",
+    "nilai": 323.5,
+    "waktu-daftar": "2019-06-17 09:26:58"
+  },
+  {
+    "urutan": 32,
+    "no-ujian": "2190502002702365",
+    "nama": "ZAHRA MUSTAFAFI",
+    "sekolah-asal": "SMP NEGERI 8 MALANG",
+    "nilai": 304.0,
+    "waktu-daftar": "2019-06-17 09:20:37"
+  },
+  {
+    "urutan": 33,
+    "no-ujian": "2190502000800445",
+    "nama": "FANANI LUQMAN ATHALLAH",
+    "sekolah-asal": "SMP NEGERI 3 MALANG",
+    "nilai": 375.0,
+    "waktu-daftar": "2019-06-17 09:20:13"
+  },
+  {
+    "urutan": 34,
+    "no-ujian": "2190502000301058",
+    "nama": "RAFAEL DUDDI CHANDRA HALIM",
+    "sekolah-asal": "SMP KATOLIK MARDI WIYATA",
+    "nilai": 240.0,
+    "waktu-daftar": "2019-06-17 09:05:21"
+  },
+  {
+    "urutan": 35,
+    "no-ujian": "2190502000900356",
+    "nama": "AJENG AYU AZIMATU ZIANA",
+    "sekolah-asal": "SMP SHALAHUDDIN",
+    "nilai": 201.5,
+    "waktu-daftar": "2019-06-17 09:02:58"
+  },
+  {
+    "urutan": 36,
+    "no-ujian": "2190502000901254",
+    "nama": "NESYA OKTAVIA RAMANDHA",
+    "sekolah-asal": "SMP SHALAHUDDIN",
+    "nilai": 183.0,
+    "waktu-daftar": "2019-06-17 09:01:59"
+  },
+  {
+    "urutan": 37,
+    "no-ujian": "2190502002400516",
+    "nama": "JILAN SYADZA SALSABILLA",
+    "sekolah-asal": "SMP NU HASYIM ASYARI",
+    "nilai": 203.5,
+    "waktu-daftar": "2019-06-17 08:53:33"
+  },
+  {
+    "urutan": 38,
+    "no-ujian": "2190502005201058",
+    "nama": "CITRA ULIMA",
+    "sekolah-asal": "SMP NEGERI 14 MALANG",
+    "nilai": 222.5,
+    "waktu-daftar": "2019-06-17 08:52:47"
+  },
+  {
+    "urutan": 39,
+    "no-ujian": "2190502002302623",
+    "nama": "GIBRANISA RATNA VALENT",
+    "sekolah-asal": "SMP NEGERI 7 MALANG",
+    "nilai": 290.0,
+    "waktu-daftar": "2019-06-17 08:51:22"
+  },
+  {
+    "urutan": 40,
+    "no-ujian": "2190502008700418",
+    "nama": "DEDRICK FARROS RISQULLOH",
+    "sekolah-asal": "SMP NEGERI 21 MALANG",
+    "nilai": 270.0,
+    "waktu-daftar": "2019-06-17 08:51:13"
+  },
+  {
+    "urutan": 41,
+    "no-ujian": "2190502001601458",
+    "nama": "DAVINZA PRAYUDHA AUDRYAN",
+    "sekolah-asal": "SMP NEGERI 5 MALANG",
+    "nilai": 328.5,
+    "waktu-daftar": "2019-06-17 08:50:55"
+  },
+  {
+    "urutan": 42,
+    "no-ujian": "2190502008401903",
+    "nama": "RIZKY SURYA ERYNDRA",
+    "sekolah-asal": "SMP NEGERI 20 MALANG",
+    "nilai": 345.5,
+    "waktu-daftar": "2019-06-17 08:48:45"
+  },
+  {
+    "urutan": 43,
+    "no-ujian": "2190502001601858",
+    "nama": "HABIB HOS DEAKRES HIDAYAT",
+    "sekolah-asal": "SMP NEGERI 5 MALANG",
+    "nilai": 331.0,
+    "waktu-daftar": "2019-06-17 08:44:46"
+  },
+  {
+    "urutan": 44,
+    "no-ujian": "2190502001801334",
+    "nama": "ADAM FATHUR RAHMAN HASAN",
+    "sekolah-asal": "SMP NEGERI 6 MALANG",
+    "nilai": 329.5,
+    "waktu-daftar": "2019-06-17 08:41:27"
+  },
+  {
+    "urutan": 45,
+    "no-ujian": "2190502008702623",
+    "nama": "GERALD CHRISTIAN WIJAYA",
+    "sekolah-asal": "SMP NEGERI 21 MALANG",
+    "nilai": 336.5,
+    "waktu-daftar": "2019-06-17 08:34:39"
+  },
+  {
+    "urutan": 46,
+    "no-ujian": "2190502006400649",
+    "nama": "VEGAN CHRISTIAN DAVE NIMROD FELIZ DE KATIANDAGHO",
+    "sekolah-asal": "SMP NEGERI 16 MALANG",
+    "nilai": 284.5,
+    "waktu-daftar": "2019-06-17 08:25:12"
+  },
+  {
+    "urutan": 47,
+    "no-ujian": "2190512009002054",
+    "nama": "MUHAMMAD IRFANI LUQMAN RAHMATULLOH",
+    "sekolah-asal": "SMP NEGERI 2 NGORO",
+    "nilai": 251.0,
+    "waktu-daftar": "2019-06-17 08:17:54"
+  },
+  {
+    "urutan": 48,
+    "no-ujian": "2190502000101858",
+    "nama": "MUHAMMAD ARFIANSYAH NUGROHO",
+    "sekolah-asal": "SMP NEGERI 1 MALANG",
+    "nilai": 381.0,
+    "waktu-daftar": "2019-06-17 08:17:47"
+  },
+  {
+    "urutan": 49,
+    "no-ujian": "2190502007700436",
+    "nama": "VALENTINO WAHYU DEWANTO",
+    "sekolah-asal": "SMP KATOLIK MARSUDISIWI",
+    "nilai": 217.5,
+    "waktu-daftar": "2019-06-17 08:15:25"
+  },
+  {
+    "urutan": 50,
+    "no-ujian": "2190502009900258",
+    "nama": "ALISYA ZAHIRA FAUZI",
+    "sekolah-asal": "SMP PLUS AL - KAUTSAR",
+    "nilai": 306.0,
+    "waktu-daftar": "2019-06-17 08:14:46"
+  },
+  {
+    "urutan": 51,
+    "no-ujian": "2190502001401707",
+    "nama": "MOCHAMAD HELGA ARSYA",
+    "sekolah-asal": "SMP LABORATORIUM UM MALANG",
+    "nilai": 215.5,
+    "waktu-daftar": "2019-06-17 08:01:22"
+  },
+  {
+    "urutan": 52,
+    "no-ujian": "2190502009900632",
+    "nama": "RYEGA DAFA SYAUQI",
+    "sekolah-asal": "SMP PLUS AL - KAUTSAR",
+    "nilai": 216.0,
+    "waktu-daftar": "2019-06-17 07:50:38"
+  },
+  {
+    "urutan": 53,
+    "no-ujian": "2190502000801956",
+    "nama": "ANISA PUTRI MAHARANI",
+    "sekolah-asal": "SMP NEGERI 3 MALANG",
+    "nilai": 380.0,
+    "waktu-daftar": "2019-06-17 07:46:14"
+  },
+  {
+    "urutan": 54,
+    "no-ujian": "2190502050400036",
+    "nama": "ANITA KUSUMA NINGSIH",
+    "sekolah-asal": "MTS MUALLIMAT",
+    "nilai": 237.5,
+    "waktu-daftar": "2019-06-17 07:44:14"
+  },
+  {
+    "urutan": 55,
+    "no-ujian": "2190502001600365",
+    "nama": "ADELIA NASYWA RACHMANDA",
+    "sekolah-asal": "SMP NEGERI 5 MALANG",
+    "nilai": 357.5,
+    "waktu-daftar": "2019-06-17 07:41:35"
+  },
+  {
+    "urutan": 56,
+    "no-ujian": "2190502001000747",
+    "nama": "IGNATIUS RADITHYA ADI NUGROHO TANU",
+    "sekolah-asal": "SMP KATOLIK KOLESE SANTO YUSUF 1 MALANG",
+    "nilai": 379.0,
+    "waktu-daftar": "2019-06-17 07:35:59"
+  },
+  {
+    "urutan": 57,
+    "no-ujian": "2190502009200703",
+    "nama": "MAUDY CINTYA DEWI",
+    "sekolah-asal": "SMP ISLAM SABILILLAH",
+    "nilai": 359.0,
+    "waktu-daftar": "2019-06-17 07:35:39"
+  },
+  {
+    "urutan": 58,
+    "no-ujian": "2190502001200356",
+    "nama": "GADING TIMUR SULTHANSYAH",
+    "sekolah-asal": "SMP BRAWIJAYA SMART SCHOOL",
+    "nilai": 313.5,
+    "waktu-daftar": "2019-06-17 07:35:32"
+  },
+  {
+    "urutan": 59,
+    "no-ujian": "2190502001600952",
+    "nama": "NANDYA NUR SHADRINA",
+    "sekolah-asal": "SMP NEGERI 5 MALANG",
+    "nilai": 327.0,
+    "waktu-daftar": "2019-06-17 07:33:12"
+  },
+  {
+    "urutan": 60,
+    "no-ujian": "2190502007501796",
+    "nama": "RANDDI DIO YOHAN PRANAYA",
+    "sekolah-asal": "SMP NEGERI 18 MALANG",
+    "nilai": 316.5,
+    "waktu-daftar": "2019-06-17 07:27:24"
+  },
+  {
+    "urutan": 61,
+    "no-ujian": "2190502001601583",
+    "nama": "MUHAMMAD JIMMY FIRMANSYAH",
+    "sekolah-asal": "SMP NEGERI 5 MALANG",
+    "nilai": 362.0,
+    "waktu-daftar": "2019-06-17 07:25:44"
+  },
+  {
+    "urutan": 62,
+    "no-ujian": "2190502002300543",
+    "nama": "IQBAL BRIAN FIRMANSYAH",
+    "sekolah-asal": "SMP NEGERI 7 MALANG",
+    "nilai": 236.5,
+    "waktu-daftar": "2019-06-17 07:25:26"
+  },
+  {
+    "urutan": 63,
+    "no-ujian": "2190502010700027",
+    "nama": "ALEXANDER SIGIT ATMAJA",
+    "sekolah-asal": "SMP BINA BUDI MULIA",
+    "nilai": 381.0,
+    "waktu-daftar": "2019-06-17 07:24:09"
+  },
+  {
+    "urutan": 64,
+    "no-ujian": "2190524006900347",
+    "nama": "ADAM QUBRO PUTRA ADITYO",
+    "sekolah-asal": "UPT SMP NEGERI 2 KADEMANGAN",
+    "nilai": 236.0,
+    "waktu-daftar": "2019-06-17 07:17:53"
+  },
+  {
+    "urutan": 65,
+    "no-ujian": "2190502001000018",
+    "nama": "ADELIA RENITA SIPAHUTAR",
+    "sekolah-asal": "SMP KATOLIK KOLESE SANTO YUSUF 1 MALANG",
+    "nilai": 374.5,
+    "waktu-daftar": "2019-06-17 07:16:56"
+  },
+  {
+    "urutan": 66,
+    "no-ujian": "2190502001100445",
+    "nama": "HIUMAY HARYA HANGGARA",
+    "sekolah-asal": "SMP NEGERI 4 MALANG",
+    "nilai": 360.5,
+    "waktu-daftar": "2019-06-17 07:16:19"
+  },
+  {
+    "urutan": 67,
+    "no-ujian": "2190502009401476",
+    "nama": "ANDHIKA TRISASAGE",
+    "sekolah-asal": "SMP NEGERI 23 MALANG",
+    "nilai": 257.0,
+    "waktu-daftar": "2019-06-17 07:13:57"
+  },
+  {
+    "urutan": 68,
+    "no-ujian": "2190502009200667",
+    "nama": "AZZAHRA SYADZA NASYWANTYA PURNOMO",
+    "sekolah-asal": "SMP ISLAM SABILILLAH",
+    "nilai": 362.5,
+    "waktu-daftar": "2019-06-17 07:12:30"
+  },
+  {
+    "urutan": 69,
+    "no-ujian": "2190502008701476",
+    "nama": "AINI SAMSI FITRIA",
+    "sekolah-asal": "SMP NEGERI 21 MALANG",
+    "nilai": 361.0,
+    "waktu-daftar": "2019-06-17 07:02:45"
+  },
+  {
+    "urutan": 70,
+    "no-ujian": "2190502003000409",
+    "nama": "FIKRI NOVIANSYAH RAMADAN",
+    "sekolah-asal": "SMP NEGERI 9 MALANG",
+    "nilai": 300.0,
+    "waktu-daftar": "2019-06-17 06:56:08"
+  },
+  {
+    "urutan": 71,
+    "no-ujian": "2190502003900889",
+    "nama": "RUSYDINA NUR ZAFIRAH",
+    "sekolah-asal": "SMP NEGERI 11 MALANG",
+    "nilai": 300.0,
+    "waktu-daftar": "2019-06-17 06:54:32"
+  },
+  {
+    "urutan": 72,
+    "no-ujian": "2190502000200774",
+    "nama": "GRACELA NOVELINE CHRISTIANA TELAUMBANUA",
+    "sekolah-asal": "SMP KATOLIK SANTA MARIA II MALANG",
+    "nilai": 354.5,
+    "waktu-daftar": "2019-06-17 06:52:18"
+  },
+  {
+    "urutan": 73,
+    "no-ujian": "2190502004302338",
+    "nama": "MUHAMMAD HAFIZH APRILLIANO FILAYDA",
+    "sekolah-asal": "SMP NEGERI 12 MALANG",
+    "nilai": 265.0,
+    "waktu-daftar": "2019-06-17 06:49:54"
+  },
+  {
+    "urutan": 74,
+    "no-ujian": "2190502001601974",
+    "nama": "PUTRA GYLANG RACHMAD KUSUMA",
+    "sekolah-asal": "SMP NEGERI 5 MALANG",
+    "nilai": 349.5,
+    "waktu-daftar": "2019-06-17 06:49:35"
+  },
+  {
+    "urutan": 75,
+    "no-ujian": "2190502001602774",
+    "nama": "FARAH INGGRID ADELIA",
+    "sekolah-asal": "SMP NEGERI 5 MALANG",
+    "nilai": 367.5,
+    "waktu-daftar": "2019-06-17 06:48:22"
+  },
+  {
+    "urutan": 76,
+    "no-ujian": "2190503000402098",
+    "nama": "PUTRI SALMA RAMADHANY",
+    "sekolah-asal": "SMP NEGERI 2 MADIUN",
+    "nilai": 343.0,
+    "waktu-daftar": "2019-06-17 06:47:45"
+  },
+  {
+    "urutan": 77,
+    "no-ujian": "2190502000101689",
+    "nama": "ALIF AKHMAD ZAKKI",
+    "sekolah-asal": "SMP NEGERI 1 MALANG",
+    "nilai": 378.0,
+    "waktu-daftar": "2019-06-17 06:47:26"
+  },
+  {
+    "urutan": 78,
+    "no-ujian": "2190502003900587",
+    "nama": "SATRIO CONDRO KUSUMA",
+    "sekolah-asal": "SMP NEGERI 11 MALANG",
+    "nilai": 351.0,
+    "waktu-daftar": "2019-06-17 06:46:43"
+  },
+  {
+    "urutan": 79,
+    "no-ujian": "2190502001603023",
+    "nama": "SEILA IMANIA AZHARI",
+    "sekolah-asal": "SMP NEGERI 5 MALANG",
+    "nilai": 371.5,
+    "waktu-daftar": "2019-06-17 06:44:38"
+  },
+  {
+    "urutan": 80,
+    "no-ujian": "2190502008100463",
+    "nama": "MAIDA SABITAH AURELLIA",
+    "sekolah-asal": "SMP NEGERI 19 MALANG",
+    "nilai": 278.0,
+    "waktu-daftar": "2019-06-17 06:34:02"
+  },
+  {
+    "urutan": 81,
+    "no-ujian": "2190527005802329",
+    "nama": "SANIA SUKMAWATI NINGRUM",
+    "sekolah-asal": "SMP NEGERI 1 TUMPANG",
+    "nilai": 356.5,
+    "waktu-daftar": "2019-06-17 06:33:04"
+  },
+  {
+    "urutan": 82,
+    "no-ujian": "2191901002202685",
+    "nama": "RAFIAN BAGUSANDY",
+    "sekolah-asal": "SMP NEGERI 6 MAKASSAR",
+    "nilai": 339.5,
+    "waktu-daftar": "2019-06-17 06:31:07"
+  },
+  {
+    "urutan": 83,
+    "no-ujian": "2190502010200196",
+    "nama": "MUHAMMAD ANWAR FATHONI",
+    "sekolah-asal": "SMP BAHRUL MAGHFIROH",
+    "nilai": 217.0,
+    "waktu-daftar": "2019-06-17 06:28:28"
+  },
+  {
+    "urutan": 84,
+    "no-ujian": "2190502001700445",
+    "nama": "M. REZKY MAULANA",
+    "sekolah-asal": "SMP ISLAM",
+    "nilai": 201.0,
+    "waktu-daftar": "2019-06-17 06:27:26"
+  },
+  {
+    "urutan": 85,
+    "no-ujian": "2190502009201014",
+    "nama": "DZAKI IRFAN FAWWAZ",
+    "sekolah-asal": "SMP ISLAM SABILILLAH",
+    "nilai": 373.5,
+    "waktu-daftar": "2019-06-17 06:25:23"
+  },
+  {
+    "urutan": 86,
+    "no-ujian": "2190502005200205",
+    "nama": "NATASYA TATSAUL CHUSNA",
+    "sekolah-asal": "SMP NEGERI 14 MALANG",
+    "nilai": 318.5,
+    "waktu-daftar": "2019-06-17 06:24:55"
+  },
+  {
+    "urutan": 87,
+    "no-ujian": "2190502009400596",
+    "nama": "AKBAR RIZKY CAESAR GUMELI SUPRAPTO",
+    "sekolah-asal": "SMP NEGERI 23 MALANG",
+    "nilai": 283.5,
+    "waktu-daftar": "2019-06-17 06:21:37"
+  },
+  {
+    "urutan": 88,
+    "no-ujian": "2190502009700285",
+    "nama": "YOHAN LUGAS YULIAN HADI",
+    "sekolah-asal": "SMP NEGERI 27 MALANG",
+    "nilai": 224.0,
+    "waktu-daftar": "2019-06-17 06:20:52"
+  },
+  {
+    "urutan": 89,
+    "no-ujian": "2190502009000445",
+    "nama": "MUHAMMAD ILHAM GILANG MAULANA",
+    "sekolah-asal": "SMP NEGERI 22 MALANG",
+    "nilai": 203.5,
+    "waktu-daftar": "2019-06-17 06:20:32"
+  },
+  {
+    "urutan": 90,
+    "no-ujian": "2190502000100605",
+    "nama": "NOURA BILQIS AZ ZAHRA JASMINE",
+    "sekolah-asal": "SMP NEGERI 1 MALANG",
+    "nilai": 385.0,
+    "waktu-daftar": "2019-06-17 06:18:42"
+  },
+  {
+    "urutan": 91,
+    "no-ujian": "2190502000802667",
+    "nama": "HARITSANY RIZKY ADITYANSYAH",
+    "sekolah-asal": "SMP NEGERI 3 MALANG",
+    "nilai": 391.0,
+    "waktu-daftar": "2019-06-17 06:17:05"
+  },
+  {
+    "urutan": 92,
+    "no-ujian": "2190502000400445",
+    "nama": "NIMAH ATIFAH SHALABI NISA",
+    "sekolah-asal": "SMP AISYIYAH MUHAMMADIYAH 3 MALANG",
+    "nilai": 306.0,
+    "waktu-daftar": "2019-06-17 06:16:34"
+  },
+  {
+    "urutan": 93,
+    "no-ujian": "2190502001602987",
+    "nama": "SABRINA ARIANTI EKASARI",
+    "sekolah-asal": "SMP NEGERI 5 MALANG",
+    "nilai": 357.5,
+    "waktu-daftar": "2019-06-17 06:16:30"
+  },
+  {
+    "urutan": 94,
+    "no-ujian": "2190502009201032",
+    "nama": "FARIS IHSAN ALIFIAN",
+    "sekolah-asal": "SMP ISLAM SABILILLAH",
+    "nilai": 367.5,
+    "waktu-daftar": "2019-06-17 06:06:49"
+  },
+  {
+    "urutan": 95,
+    "no-ujian": "2190502001601316",
+    "nama": "SALSABILA ANDIRA SAPRILIA",
+    "sekolah-asal": "SMP NEGERI 5 MALANG",
+    "nilai": 363.0,
+    "waktu-daftar": "2019-06-17 06:06:37"
+  },
+  {
+    "urutan": 96,
+    "no-ujian": "2190502003002072",
+    "nama": "MARSYA ZARWAH RAHILLAH ISLAM",
+    "sekolah-asal": "SMP NEGERI 9 MALANG",
+    "nilai": 265.5,
+    "waktu-daftar": "2019-06-17 06:04:47"
+  },
+  {
+    "urutan": 97,
+    "no-ujian": "2190502009000356",
+    "nama": "DILLAKANDI AYU NABILA PUTRI",
+    "sekolah-asal": "SMP NEGERI 22 MALANG",
+    "nilai": 210.0,
+    "waktu-daftar": "2019-06-17 06:02:20"
+  },
+  {
+    "urutan": 98,
+    "no-ujian": "2190502008402543",
+    "nama": "RENDY FAJR ATHALLAH",
+    "sekolah-asal": "SMP NEGERI 20 MALANG",
+    "nilai": 211.5,
+    "waktu-daftar": "2019-06-17 06:00:27"
+  },
+  {
+    "urutan": 99,
+    "no-ujian": "2190502000101752",
+    "nama": "DEWI RATNASARI",
+    "sekolah-asal": "SMP NEGERI 1 MALANG",
+    "nilai": 353.5,
+    "waktu-daftar": "2019-06-17 05:59:52"
+  },
+  {
+    "urutan": 100,
+    "no-ujian": "2190502001000214",
+    "nama": "KEVIN MARTANO ARO GULO",
+    "sekolah-asal": "SMP KATOLIK KOLESE SANTO YUSUF 1 MALANG",
+    "nilai": 302.5,
+    "waktu-daftar": "2019-06-17 05:59:32"
+  }
+]
