@@ -4,7 +4,7 @@ import json
 import sys
 
 header = {'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent' : "Magic Browser"}
-school_link = "https://02.ppdbjatim.net/pengumuman/pengumuman_penerimaan/smk/sekolah/2413"
+school_link = "https://09.ppdbjatim.net/pengumuman/pengumuman_penerimaan/sma/sekolah/64"
 
 # fetch from school
 def fetch_school(link):
@@ -23,12 +23,8 @@ def fetch_school(link):
             "urutan": int(detail[0].text),
             "no-ujian": detail[1].text,
             "nama": detail[2].text,
-            "sekolah-asal": detail[3].text,
-            "status": detail[4].text.strip(),
-            "nilai": float(detail[5].text),
-            "detail-nilai": detail[6].text,
-            "waktu-daftar": detail[7].text,
-            "link": detail[8].a["href"],
+            "nilai": float(detail[3].text),
+            "link": detail[2].a["href"]
         })
 
     return students
@@ -40,33 +36,49 @@ def scrape_user(link):
     
     sma = link.split("/")[-2] == "sma"
     container = user_soup.select("body > div.container-fluid > div > div > div.row.font > div.col-md-12.col-md-border > div > div.panel-body")[0]
-    kelamin = container.div.findAll("div")[8].span.text
+
+    data = container.div.findAll("div")
+
+    detail = {
+        "asal_sekolah": data[4].span.text,
+        "tempat_lahir": data[6].span.text,
+        "kelamin": data[8].span.text,
+        
+        "nilai_mat": float(data[13].span.text),
+        "nilai_ipa": float(data[16].span.text),
+        "nilai_big": float(data[19].span.text),
+        "nilai_bin": float(data[22].span.text),
+
+        "waktu_pendaftaran": data[26].span.text
+    }
+
     span = container.findAll("div", {"class": "col-md-7"})[0].findAll("span")
     
+    # SMK
     if not sma:
         pilihan = [ 
             {
                 "Nama Sekolah": span[0].text,
-                "Jurusan": span[1].text,
-                "Status": span[2].text
+                "Jurusan": span[1].text
             },{
-                "Nama Sekolah": span[3].text,
-                "Jurusan": span[4].text,
-                "Status": span[5].text
+                "Nama Sekolah": span[2].text,
+                "Jurusan": span[3].text
             }
         ]
     else:
         pilihan = [ 
             {
                 "Nama Sekolah": span[0].text,
-                "Status": span[1].text
+                "Jurusan": span[1].text,
             },{
                 "Nama Sekolah": span[2].text,
-                "Status": span[3].text
+                "Jurusan": span[3].text
             }
         ]
 
-    return [kelamin, pilihan, span[4 if sma else 6].text]
+    diterima =  span[4].text.replace("\n", "")
+
+    return [detail, pilihan, diterima]
     
     
 def scrape(link, detail, num=None):
@@ -85,9 +97,9 @@ def scrape(link, detail, num=None):
         
         detail = scrape_user(d["link"])
 
-        d["kelamin"] = detail[0]
+        d["detail"] = detail[0]
         d["pilihan"] = detail[1]
-        d["diterima-sementara"] = detail[2]
+        d["diterima"] = detail[2]
         
         new_data.append(d)
         print("done!")
@@ -97,19 +109,19 @@ def scrape(link, detail, num=None):
 if __name__ == '__main__':
     argv = sys.argv
 
-    try:
-        if argv[1] == "len":
-            print(len(fetch_school(school_link)))
-        else:
-            detail = False
-            num = int(argv[2])
-    
-            if argv[3] == "yes":
-                detail = True
-    
-            result = scrape(school_link, detail, num)
+    # try:
+    if argv[1] == "len":
+        print(len(fetch_school(school_link)))
+    else:
+        detail = False
+        num = int(argv[2])
 
-            with open(argv[1], 'w') as f:
-                json.dump(result, f)
-    except IndexError:
-        print("Invalid Command! example: ppdb <len|path> <num> <detail?yes/no>")
+        if argv[3] == "yes":
+            detail = True
+
+        result = scrape(school_link, detail, num)
+
+        with open(argv[1], 'w') as f:
+            json.dump(result, f)
+    # except IndexError:
+    #     print("Invalid Command! example: ppdb <len|path> <num> <detail?yes/no>")
